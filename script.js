@@ -6,6 +6,7 @@ const messages = [
     "Just think about it!",
     "Don't say no? Look at the cute cat with a flower.",
     "Please?",
+    "Pretty please?",
     "Ok fine, I will stop asking...",
     "Just kidding, say yes please! ❤️"
 ];
