@@ -4,7 +4,6 @@ const messages = [
     "I know you want to",
     "Come on, please? :<<<",
     "Just think about it!",
-    "If you say no, I will be really sad...",
     "Don't say no? Look at the cute cat with a flower.",
     "Please?",
     "Ok fine, I will stop asking...",
